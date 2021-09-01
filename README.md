@@ -4,7 +4,7 @@
 
 Autor: Aldo Ferlatti
 
-Mentor: dr. sc. Nikola Tanković
+Mentor: doc. dr. sc. Nikola Tanković
 
 [Sveučilište Jurja Dobrile u Puli](https://www.unipu.hr/), [Fakultet informatike](https://fipu.unipu.hr/fipu)
 
@@ -21,7 +21,7 @@ U ovome radu se razmatra prvi korak održive komunikacije sa čovjekom, odnosno 
 
 Author: Aldo Ferlatti
 
-Mentor: dr. sc. Nikola Tanković
+Mentor: doc. dr. sc. Nikola Tanković
 
 [University of Jurja Dobrile of Pula](https://www.unipu.hr/), [Faculty of informatics](https://fipu.unipu.hr/fipu)
 
