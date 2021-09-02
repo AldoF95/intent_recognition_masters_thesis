@@ -13,9 +13,23 @@ Razvoj u području obrade prirodnog jezika (NLP) u zadnjih je godina unaprijedil
 
 U ovome radu se razmatra prvi korak održive komunikacije sa čovjekom, odnosno prepoznavanje namjere. Istražuju se postojeće metode i tehnologije u području NLPa za krajnje prepoznavanje namjere. Za svrhu dokazivanja funkcionalnosti razvio se set modela sa preko 90% točnosti za prepoznavanje namjere za sveučilišne procese kao što su upisi na sveučilište te prijava završnog ili diplomskoga rada. Za kraj, dodatan doprinos rada je razmatranje utjecaja korištenog jezika za prepoznavanje namjere u višejezičnim uvjetima.
 
+### Opis sadržaja datoteka
+
+intent_recognition --> početni testovi i manipulacija sa podacima (istraživanje)
+
+intent_recognition_phase2 --> obrada podataka za 3 namjere, tereniranje modela
+
+intent_recognition_phase3 --> obrada podataka za 5 namjera, treniranje modela
+
+
+
+Podaci: chatbot-data.xlsx
+
+Dokumentacija: [priložena dokumentacija diplomskog rada](https://github.com/AldoF95/diplomski_rad_masters_thesis/blob/main/Aldo_Ferlatti_diplomski.pdf)
+
 ---------------------------------------------------------------------------------------
 
-## MODEL BASED CHATBOT FOR INTENT RECOGNITION
+## MODEL-DRIVEN CHATBOT FOR USER INTENT RECOGNITION
 ***
 ### Master's thesis
 
